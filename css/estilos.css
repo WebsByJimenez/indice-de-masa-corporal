@@ -136,12 +136,7 @@ select.input {
   margin-bottom: 25px;
 }
 
-/* CORREGIDO: Los porcentajes ahora coinciden exactamente con la fórmula lineal del JS.
-  - Bajo peso (hasta 18.5) -> finaliza en el 28.3% del total (de un rango 10 a 40).
-  - Normal (hasta 24.9) -> finaliza en el 49.6%.
-  - Sobrepeso (hasta 29.9) -> finaliza en el 66.3%.
-  - Obesidad (30 o más) -> toma el resto de la barra.
-*/
+
 .bmi-gauge-bar {
   height: 15px;
   background: linear-gradient(
