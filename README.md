@@ -1,3 +1,4 @@
+
 # Tu Salud Digital - Calculadora de IMC 🧮🩺
 
 Una calculadora interactiva y moderna de **Índice de Masa Corporal (IMC)** diseñada para ayudar a los usuarios a monitorear su estado nutricional de forma rápida y sencilla. Cuenta con un diseño adaptativo, indicador visual y consejos personalizados según el resultado.
@@ -18,8 +19,6 @@ Una calculadora interactiva y moderna de **Índice de Masa Corporal (IMC)** dise
 
 ## 📂 Estructura del Proyecto
 
-Asegúrate de mantener tus archivos organizados de la siguiente manera antes de subirlos a GitHub:
-
 ```text
 calculadora-imc/
 ├── css/
@@ -31,10 +30,3 @@ calculadora-imc/
 ├── index.html
 ├── .gitignore
 └── README.md
-
-
-Autor
-WebsByJimenez
-
-[🔗 Haz clic aquí para ver la aplicación en vivo](https://websbyjimenez.github.io/INDICE-DE-MASA-CORPORAL/)
-
