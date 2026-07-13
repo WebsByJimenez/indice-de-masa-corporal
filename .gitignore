@@ -1,0 +1,15 @@
+# Sistemas operativos (Archivos temporales)
+
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editores de código (como VS Code)
+
+.vscode/
+.idea/
+\*.swp
+
+# Archivos de registro de errores
+
+\*.log
