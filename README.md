@@ -2,8 +2,6 @@
 
 **Tu Salud Digital** es una herramienta web interactiva, moderna y accesible diseñada para calcular el Índice de Masa Corporal (IMC) de forma rápida y precisa. Proporciona una clasificación visual clara sobre el estado nutricional del usuario con una experiencia de uso intuitiva y fluida.
 
----
-
 ## ✨ Características Principales
 
 - **Cálculo Preciso e Instantáneo:** Procesa la relación entre el peso y la altura en tiempo real.
